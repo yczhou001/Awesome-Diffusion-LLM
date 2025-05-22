@@ -1,5 +1,9 @@
 # Awesome-Diffusion-LLM
 
+## Playground
+- [Meucury](https://chat.inceptionlabs.ai/)
+- [Dream7B](https://huggingface.co/spaces/multimodalart/Dream)
+- [LLaDA8B](https://huggingface.co/spaces/multimodalart/LLaDA)
 ## Continuous-Time Diffusion Model 
 - Diffusion-LM Improves Controllable Text Generation (NeurIPS 2022)
 - Latent Diffusion for Language Generation (NeurIPS 2023)
