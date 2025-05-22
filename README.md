@@ -11,7 +11,7 @@
 
 
 ## Discrete Diffusion Model
-- Structured Denoising Diffusion Models in Discrete State-Spaces (NeurIPS)
+- Structured Denoising Diffusion Models in Discrete State-Spaces (NeurIPS 2021)
 - DiffusionBERT: Improving Generative Masked Language Models with Diffusion Models (ACL 2023)
 - Diffusion-NAT: Self-Prompting Discrete Diffusion for Non-Autoregressive Text Generation (EACL 2024)
 - A Reparameterized Discrete Diffusion Model for Text Generation (COLM 2024)
