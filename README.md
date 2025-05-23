@@ -4,6 +4,13 @@
 - [Meucury](https://chat.inceptionlabs.ai/)
 - [Dream7B](https://huggingface.co/spaces/multimodalart/Dream)
 - [LLaDA8B](https://huggingface.co/spaces/multimodalart/LLaDA)
+
+
+## blog / tech report
+- Mercury: Ultra-Fast Language Models Based on Diffusion [tech report](https://drive.google.com/file/d/1xrqTqF88OZblf0NgMjr1REU4doYlkNXf/view)
+- Dream7B [blog](https://hkunlp.github.io/blog/2025/dream/)
+- Gemini Diffusion [blog](https://deepmind.google/models/gemini-diffusion/) 
+
 ## Continuous-Time Diffusion Model 
 - Diffusion-LM Improves Controllable Text Generation (NeurIPS 2022)
 - Latent Diffusion for Language Generation (NeurIPS 2023)
@@ -32,8 +39,6 @@
 - Block Diffusion: Interpolating Between Autoregressive and Diffusion Language Models (ICLR 2025)
 - Large Language Diffusion Models (arxiv 2025)
 - Remasking Discrete Diffusion Models with Inference-Time Scaling (arxiv 2025)
+- [d1: Scaling Reasoning in Diffusion Large Language Models via Reinforcement Learning](https://arxiv.org/abs/2504.12216) (arxiv 2025) ![](https://img.shields.io/badge/abs-2025.04-red)
 
 
-## blog / tech report
-- Mercury: Ultra-Fast Language Models Based on Diffusion [tech report](https://drive.google.com/file/d/1xrqTqF88OZblf0NgMjr1REU4doYlkNXf/view)
-- Dream7B [blog](https://hkunlp.github.io/blog/2025/dream/)
