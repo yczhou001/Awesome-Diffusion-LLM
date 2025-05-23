@@ -30,6 +30,7 @@ This repository contains：
 
 - [LaViDa: A Large Diffusion Language Model for Multimodal Understanding](https://arxiv.org/pdf/2505.16839) ![](https://img.shields.io/badge/abs-2025.05-red)
 - [MMaDA: Multimodal Large Diffusion Language Models](https://arxiv.org/pdf/2505.15809) ![](https://img.shields.io/badge/abs-2025.05-red)
+- [LLaDA-V: Large Language Diffusion Models with Visual Instruction Tuning](https://arxiv.org/pdf/2505.16933) ![](https://img.shields.io/badge/abs-2025.05-red)
 
 
 ## Discrete Diffusion Model
