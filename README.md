@@ -1,15 +1,22 @@
 # Awesome-Diffusion-LLM
 
+This repository contains：
+  - A regularly updated paper list for Diffusion Large Language Models.
+  - A tutorial for Diffusion Large Language Models
+  - A nano code snippet for Diffusion Large Language Models (coming soon!)
+
+
 ## Playground
 - [Meucury](https://chat.inceptionlabs.ai/)
 - [Dream7B](https://huggingface.co/spaces/multimodalart/Dream)
 - [LLaDA8B](https://huggingface.co/spaces/multimodalart/LLaDA)
 
 
-## blog / tech report
+## Product/ Blog / Technical Report
+- Gemini Diffusion [blog](https://deepmind.google/models/gemini-diffusion/) 
 - Mercury: Ultra-Fast Language Models Based on Diffusion [tech report](https://drive.google.com/file/d/1xrqTqF88OZblf0NgMjr1REU4doYlkNXf/view)
 - Dream7B [blog](https://hkunlp.github.io/blog/2025/dream/)
-- Gemini Diffusion [blog](https://deepmind.google/models/gemini-diffusion/) 
+
 
 ## Diffusion Language Model for Multimodal Understanding
 
