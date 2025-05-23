@@ -1,4 +1,12 @@
-# Awesome-Diffusion-LLM
+<div align="center">
+  
+# Awesome Diffusion Large Language Models
+
+[![Awesome](https://awesome.re/badge.svg)](https://github.com/XiaoYee/Awesome_Efficient_LRM_Reasoning) 
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+![](https://img.shields.io/github/last-commit/yczhou001/Awesome-Diffusion-LLM?color=green) 
+
+</div>
 
 This repository contains：
   - A regularly updated paper list for Diffusion Large Language Models.
