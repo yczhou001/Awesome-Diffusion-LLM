@@ -49,19 +49,38 @@ This repository contains：
 - Simplified and Generalized Masked Diffusion for Discrete Data (NeurIPS 2024)
 - Diffusion-NAT: Self-Prompting Discrete Diffusion for Non-Autoregressive Text Generation (EACL 2024)
 - A Reparameterized Discrete Diffusion Model for Text Generation (COLM 2024)
+- Diffusion Glancing Transformer for Parallel Sequence-to-Sequence Learning (NAACL 2024)
 - Diffusion Language Models Can Perform Many Tasks with Scaling and Instruction-Finetuning (arxiv 2024)
 - DiffusionBERT: Improving Generative Masked Language Models with Diffusion Models (ACL 2023)
+- A Continuous Time Framework for Discrete Denoising Models (NeurIPS 2022)
 - Structured Denoising Diffusion Models in Discrete State-Spaces (NeurIPS 2021)
-
+- Argmax Flows and Multinomial Diffusion: Learning Categorical Distributions (NeurIPS 2021)
 
 ## Continuous-Time Diffusion Model 
-- Diffusion-LM Improves Controllable Text Generation (NeurIPS 2022)
+- Difformer: Empowering Diffusion Models on the Embedding Space for Text Generation (NAACL2024)
 - Latent Diffusion for Language Generation (NeurIPS 2023)
 - AR-Diffusion: Auto-Regressive Diffusion Model for Text Generation (NeurIPS 2023)
 - Text Generation with Diffusion Language Models: A Pre-training Approach with Continuous Paragraph Denoise (ICML 2023)
+- DiffuSeq-v2: Bridging Discrete and Continuous Text Spaces for Accelerated Seq2Seq Diffusion Models (EMNLP 2023)
 - How Does Diffusion Influence Pretrained Language Models on Out-of-Distribution Data? (ECAI 2023)
-- Difformer: Empowering Diffusion Models on the Embedding Space for Text Generation (NAACL2024)
+- SSD-LM: Semi-autoregressive Simplex-based Diffusion Language Model for Text Generation and Modular Control (ACL 2023)
+- Glyphdiffusion: Text generation as image generation (arxiv 2023)
+- Dinoiser: Diffused conditional sequence learning by manipulating noises (arxiv 2023)
+- Diffusion-LM Improves Controllable Text Generation (NeurIPS 2022)
+- DiffuSeq: Sequence to Sequence Text Generation with Diffusion Models (ICLR 2022)
+- Continuous diffusion for categorical data (arxiv 2022)
+- Seqdiffuseq: Text diffusion with encoder-decoder transformers (arxiv 2022)
 
+
+
+
+
+
+## Application
+- Table-to-Text Generation with Pretrained Diffusion Models (IEEE 2024)
+- Diffusion of Thought: Chain-of-Thought Reasoning in Diffusion Language Models (NeurIPS)
+- DiffusionNER: Boundary Diffusion for Named Entity Recognition (ACL 2023)
+- Fine-grained Text Style Transfer with Diffusion-Based Language Models (RepL4NLP 2023)
 
 
 
