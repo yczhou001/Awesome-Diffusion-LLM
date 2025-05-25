@@ -34,6 +34,7 @@ This repository contains：
 
 
 ## Discrete Diffusion Model
+- [CtrlDiff: Boosting Large Diffusion Language Models with Dynamic Block Prediction and Controllable Generation](https://arxiv.org/pdf/2505.14455)(arxiv) ![](https://img.shields.io/badge/abs-2025.05-red)
 - [d1: Scaling Reasoning in Diffusion Large Language Models via Reinforcement Learning](https://arxiv.org/abs/2504.12216) (arxiv) ![](https://img.shields.io/badge/abs-2025.04-red)
 - Block Diffusion: Interpolating Between Autoregressive and Diffusion Language Models (ICLR 2025)
 - Large Language Diffusion Models (arxiv 2025)
