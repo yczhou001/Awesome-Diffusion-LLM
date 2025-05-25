@@ -36,7 +36,7 @@ This repository contains：
 ## Discrete Diffusion Model
 - [CtrlDiff: Boosting Large Diffusion Language Models with Dynamic Block Prediction and Controllable Generation](https://arxiv.org/pdf/2505.14455)(arxiv) ![](https://img.shields.io/badge/abs-2025.05-red)
 - [d1: Scaling Reasoning in Diffusion Large Language Models via Reinforcement Learning](https://arxiv.org/abs/2504.12216) (arxiv) ![](https://img.shields.io/badge/abs-2025.04-red)
-- Block Diffusion: Interpolating Between Autoregressive and Diffusion Language Models (ICLR 2025)
+- [Block Diffusion: Interpolating Between Autoregressive and Diffusion Language Models](https://arxiv.org/pdf/2503.09573) (ICLR 2025)
 - Large Language Diffusion Models (arxiv 2025)
 - Remasking Discrete Diffusion Models with Inference-Time Scaling (arxiv 2025)
 - Your Absorbing Discrete Diffusion Secretly Models the Conditional Distributions of Clean Data (ICLR 2025)
@@ -60,9 +60,10 @@ This repository contains：
 ## Continuous-Time Diffusion Model 
 - Difformer: Empowering Diffusion Models on the Embedding Space for Text Generation (NAACL2024)
 - Latent Diffusion for Language Generation (NeurIPS 2023)
-- AR-Diffusion: Auto-Regressive Diffusion Model for Text Generation (NeurIPS 2023)
+- [AR-Diffusion: Auto-Regressive Diffusion Model for Text Generation](https://arxiv.org/pdf/2305.09515) (NeurIPS 2023)
 - Text Generation with Diffusion Language Models: A Pre-training Approach with Continuous Paragraph Denoise (ICML 2023)
 - DiffuSeq-v2: Bridging Discrete and Continuous Text Spaces for Accelerated Seq2Seq Diffusion Models (EMNLP 2023)
+- [DeTiME: Diffusion-Enhanced Topic Modeling using Encoder-decoder based LLM](https://arxiv.org/pdf/2310.15296) (EMNLP 2023)
 - How Does Diffusion Influence Pretrained Language Models on Out-of-Distribution Data? (ECAI 2023)
 - SSD-LM: Semi-autoregressive Simplex-based Diffusion Language Model for Text Generation and Modular Control (ACL 2023)
 - Glyphdiffusion: Text generation as image generation (arxiv 2023)
