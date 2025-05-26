@@ -58,8 +58,8 @@ This repository contains：
 - A Continuous Time Framework for Discrete Denoising Models (NeurIPS 2022)
 - Structured Denoising Diffusion Models in Discrete State-Spaces (NeurIPS 2021)
 - Argmax Flows and Multinomial Diffusion: Learning Categorical Distributions (NeurIPS 2021)
-- DiffusER: Discrete Diffusion via Edit-based Reconstruction, ICLR 2023
-- A Cheaper and Better Diffusion Language Model with Soft-Masked Noise, EMNLP 2023
+- DiffusER: Discrete Diffusion via Edit-based Reconstruction (ICLR 2023)
+- A Cheaper and Better Diffusion Language Model with Soft-Masked Noise (EMNLP 2023)
   
 
 ## Continuous-Time Diffusion Model 
@@ -77,7 +77,7 @@ This repository contains：
 - DiffuSeq: Sequence to Sequence Text Generation with Diffusion Models (ICLR 2022)
 - Continuous diffusion for categorical data (arxiv 2022)
 - Seqdiffuseq: Text diffusion with encoder-decoder transformers (arxiv 2022)
-- Diffusion Guided Language Modeling（ACL 2024）
+- Diffusion Guided Language Modeling (ACL 2024)
 
 
 
