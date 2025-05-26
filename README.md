@@ -18,6 +18,7 @@ This repository contains：
 - [Meucury](https://chat.inceptionlabs.ai/)
 - [Dream7B](https://huggingface.co/spaces/multimodalart/Dream)
 - [LLaDA8B](https://huggingface.co/spaces/multimodalart/LLaDA)
+- [Dimple](https://huggingface.co/spaces/rp-yu/Dimple-7B)
 
 
 ## Product/ Blog / Technical Report
@@ -31,6 +32,7 @@ This repository contains：
 - [LaViDa: A Large Diffusion Language Model for Multimodal Understanding](https://arxiv.org/pdf/2505.16839) ![](https://img.shields.io/badge/abs-2025.05-red)
 - [MMaDA: Multimodal Large Diffusion Language Models](https://arxiv.org/pdf/2505.15809) ![](https://img.shields.io/badge/abs-2025.05-red)
 - [LLaDA-V: Large Language Diffusion Models with Visual Instruction Tuning](https://arxiv.org/pdf/2505.16933) ![](https://img.shields.io/badge/abs-2025.05-red)
+- [Dimple: Discrete Diffusion Multimodal Large Language Model with Parallel Decoding](https://arxiv.org/abs/2505.16990) ![](https://img.shields.io/badge/abs-2025.05-red)
 
 
 ## Discrete Diffusion Model
