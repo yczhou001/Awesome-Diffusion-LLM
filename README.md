@@ -36,6 +36,7 @@ This repository contains：
 ## Discrete Diffusion Model
 - [Diffusion vs. Autoregressive Language Models: A Text Embedding Perspective](https://arxiv.org/pdf/2505.15045) (arxiv)![](https://img.shields.io/badge/abs-2025.05-red)
 - [dKV-Cache: The Cache for Diffusion Language Models](https://arxiv.org/pdf/2505.15781) (arxiv)![](https://img.shields.io/badge/abs-2025.05-red)
+- [Dimple: Discrete Diffusion Multimodal Large Language Model with Parallel Decoding](https://arxiv.org/pdf/2505.16990) (arxiv)![](https://img.shields.io/badge/abs-2025.05-red)
 - [CtrlDiff: Boosting Large Diffusion Language Models with Dynamic Block Prediction and Controllable Generation](https://arxiv.org/pdf/2505.14455)(arxiv) ![](https://img.shields.io/badge/abs-2025.05-red)
 - [d1: Scaling Reasoning in Diffusion Large Language Models via Reinforcement Learning](https://arxiv.org/abs/2504.12216) (arxiv) ![](https://img.shields.io/badge/abs-2025.04-red)
 - [Block Diffusion: Interpolating Between Autoregressive and Diffusion Language Models](https://arxiv.org/pdf/2503.09573) (ICLR 2025)
