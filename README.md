@@ -39,9 +39,9 @@ This repository contains：
 - [dKV-Cache: The Cache for Diffusion Language Models](https://arxiv.org/pdf/2505.15781) (arxiv)![](https://img.shields.io/badge/abs-2025.05-red)
 - [CtrlDiff: Boosting Large Diffusion Language Models with Dynamic Block Prediction and Controllable Generation](https://arxiv.org/pdf/2505.14455)(arxiv) ![](https://img.shields.io/badge/abs-2025.05-red)
 - [d1: Scaling Reasoning in Diffusion Large Language Models via Reinforcement Learning](https://arxiv.org/abs/2504.12216) (arxiv) ![](https://img.shields.io/badge/abs-2025.04-red)
-- [Block Diffusion: Interpolating Between Autoregressive and Diffusion Language Models](https://arxiv.org/pdf/2503.09573) (ICLR 2025)
 - [Large Language Diffusion Models](https://arxiv.org/pdf/2502.09992) (arxiv) ![](https://img.shields.io/badge/abs-2025.02-red)
-- Remasking Discrete Diffusion Models with Inference-Time Scaling (arxiv 2025)
+- [Remasking Discrete Diffusion Models with Inference-Time Scaling](https://arxiv.org/pdf/2503.00307) (arxiv)![](https://img.shields.io/badge/abs-2025.05-red)
+- [Block Diffusion: Interpolating Between Autoregressive and Diffusion Language Models](https://arxiv.org/pdf/2503.09573) (ICLR 2025)
 - [Beyond Autoregression: Fast LLMs via Self-Distillation Through Time](https://arxiv.org/pdf/2410.21035) (ICLR 2025)
 - Your Absorbing Discrete Diffusion Secretly Models the Conditional Distributions of Clean Data (ICLR 2025)
 - Masked Diffusion Models are Secretly Time-Agnostic Masked Models and Exploit Inaccurate Categorical Sampling (ICLR 2025)
@@ -65,7 +65,9 @@ This repository contains：
   
 
 ## Continuous-Time Diffusion Model 
+- [TESS 2: A Large-Scale Generalist Diffusion Language Model](https://arxiv.org/pdf/2502.13917) (arxiv) ![](https://img.shields.io/badge/abs-2025.02-red)
 - Difformer: Empowering Diffusion Models on the Embedding Space for Text Generation (NAACL2024)
+- TESS: Text-to-Text Self-Conditioned Simplex Diffusion (EACL2024)
 - Latent Diffusion for Language Generation (NeurIPS 2023)
 - [AR-Diffusion: Auto-Regressive Diffusion Model for Text Generation](https://arxiv.org/pdf/2305.09515) (NeurIPS 2023)
 - Text Generation with Diffusion Language Models: A Pre-training Approach with Continuous Paragraph Denoise (ICML 2023)
