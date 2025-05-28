@@ -35,13 +35,15 @@ This repository contains：
 
 
 ## Discrete Diffusion Model
+
+- [LLaDA 1.5: Variance-Reduced Preference Optimization for Large Language Diffusion Models](https://arxiv.org/pdf/2505.19223) (arxiv)![](https://img.shields.io/badge/abs-2025.05-red)
 - [Diffusion vs. Autoregressive Language Models: A Text Embedding Perspective](https://arxiv.org/pdf/2505.15045) (arxiv)![](https://img.shields.io/badge/abs-2025.05-red)
 - [dKV-Cache: The Cache for Diffusion Language Models](https://arxiv.org/pdf/2505.15781) (arxiv)![](https://img.shields.io/badge/abs-2025.05-red)
 - [CtrlDiff: Boosting Large Diffusion Language Models with Dynamic Block Prediction and Controllable Generation](https://arxiv.org/pdf/2505.14455)(arxiv) ![](https://img.shields.io/badge/abs-2025.05-red)
 - [d1: Scaling Reasoning in Diffusion Large Language Models via Reinforcement Learning](https://arxiv.org/abs/2504.12216) (arxiv) ![](https://img.shields.io/badge/abs-2025.04-red)
-- [Large Language Diffusion Models](https://arxiv.org/pdf/2502.09992) (arxiv) ![](https://img.shields.io/badge/abs-2025.02-red)
+- [Large Language Diffusion Models](https://arxiv.org/pdf/2502.09992) (arxiv) ![](https://img.shields.io/badge/abs-2025.02-red) [<span style="color: red;">code</span>](https://github.com/ML-GSAI/LLaDA)
 - [Remasking Discrete Diffusion Models with Inference-Time Scaling](https://arxiv.org/pdf/2503.00307) (arxiv)![](https://img.shields.io/badge/abs-2025.05-red)
-- [Block Diffusion: Interpolating Between Autoregressive and Diffusion Language Models](https://arxiv.org/pdf/2503.09573) (ICLR 2025)
+- [Block Diffusion: Interpolating Between Autoregressive and Diffusion Language Models](https://arxiv.org/pdf/2503.09573) (ICLR 2025 Oral) [<span style="color: red;">code</span>](https://github.com/kuleshov-group/bd3lms)
 - [Beyond Autoregression: Fast LLMs via Self-Distillation Through Time](https://arxiv.org/pdf/2410.21035) (ICLR 2025)
 - [Your Absorbing Discrete Diffusion Secretly Models the Conditional Distributions of Clean Data](https://arxiv.org/pdf/2406.03736) (ICLR 2025)
 - [Masked Diffusion Models are Secretly Time-Agnostic Masked Models and Exploit Inaccurate Categorical Sampling](https://arxiv.org/pdf/2409.02908) (ICLR 2025)
