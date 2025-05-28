@@ -60,6 +60,7 @@ This repository contains：
 - [Diffusion Language Models Can Perform Many Tasks with Scaling and Instruction-Finetuning](https://arxiv.org/pdf/2308.12219) (arxiv 2024)
 - [DiffusionBERT: Improving Generative Masked Language Models with Diffusion Models](https://arxiv.org/pdf/2211.15029) (ACL 2023)
 - [DiffusER: Discrete Diffusion via Edit-based Reconstruction](https://arxiv.org/pdf/2210.16886) (ICLR 2023)
+- [Likelihood-Based Diffusion Language Models](https://openreview.net/pdf?id=e2MCL6hObn) (NeurIPS 2023)
 - [A Cheaper and Better Diffusion Language Model with Soft-Masked Noise](https://arxiv.org/pdf/2304.04746) (EMNLP 2023)
 - [A Continuous Time Framework for Discrete Denoising Models](https://arxiv.org/pdf/2205.14987) (NeurIPS 2022)
 - [Structured Denoising Diffusion Models in Discrete State-Spaces](https://arxiv.org/pdf/2107.03006) (NeurIPS 2021)
