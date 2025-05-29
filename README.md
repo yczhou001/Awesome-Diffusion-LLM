@@ -93,10 +93,10 @@ This repository contains：
 
 
 ## Application
-- Table-to-Text Generation with Pretrained Diffusion Models (IEEE 2024)
-- Diffusion of Thought: Chain-of-Thought Reasoning in Diffusion Language Models (NeurIPS)
-- DiffusionNER: Boundary Diffusion for Named Entity Recognition (ACL 2023)
-- Fine-grained Text Style Transfer with Diffusion-Based Language Models (RepL4NLP 2023)
+- [Table-to-Text Generation with Pretrained Diffusion Models](https://arxiv.org/pdf/2409.13739) (IEEE 2024)
+- [Diffusion of Thought: Chain-of-Thought Reasoning in Diffusion Language Models[(https://arxiv.org/pdf/2402.07754) (NeurIPS)
+- [DiffusionNER: Boundary Diffusion for Named Entity Recognition](https://aclanthology.org/2023.acl-long.215.pdf) (ACL 2023)
+- [Fine-grained Text Style Transfer with Diffusion-Based Language Models](https://aclanthology.org/2023.repl4nlp-1.6.pdf) (RepL4NLP 2023)
 
 
 
