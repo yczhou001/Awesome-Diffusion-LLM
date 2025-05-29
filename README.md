@@ -32,11 +32,12 @@ This repository contains：
 - [MMaDA: Multimodal Large Diffusion Language Models](https://arxiv.org/pdf/2505.15809) ![](https://img.shields.io/badge/abs-2025.05-red)
 - [LLaDA-V: Large Language Diffusion Models with Visual Instruction Tuning](https://arxiv.org/pdf/2505.16933) ![](https://img.shields.io/badge/abs-2025.05-red)
 - [Dimple: Discrete Diffusion Multimodal Large Language Model with Parallel Decoding](https://arxiv.org/pdf/2505.16990) (arxiv)![](https://img.shields.io/badge/abs-2025.05-red)
-
+- [Unified Multimodal Discrete Diffusion](https://arxiv.org/pdf/2503.20853) (arxiv)![](https://img.shields.io/badge/abs-2025.03-red)  [[ **CODE** ]](https://github.com/alexanderswerdlow/unidisc)
 
 ## Discrete Diffusion Model
 
 - [LLaDA 1.5: Variance-Reduced Preference Optimization for Large Language Diffusion Models](https://arxiv.org/pdf/2505.19223) (arxiv)![](https://img.shields.io/badge/abs-2025.05-red)
+- [Accelerating Diffusion Language Model Inference via Efficient KV Caching and Guided Diffusion](https://arxiv.org/pdf/2505.21467) (arxiv)![](https://img.shields.io/badge/abs-2025.05-red)
 - [Diffusion vs. Autoregressive Language Models: A Text Embedding Perspective](https://arxiv.org/pdf/2505.15045) (arxiv)![](https://img.shields.io/badge/abs-2025.05-red)
 - [dKV-Cache: The Cache for Diffusion Language Models](https://arxiv.org/pdf/2505.15781) (arxiv)![](https://img.shields.io/badge/abs-2025.05-red)
 - [CtrlDiff: Boosting Large Diffusion Language Models with Dynamic Block Prediction and Controllable Generation](https://arxiv.org/pdf/2505.14455)(arxiv) ![](https://img.shields.io/badge/abs-2025.05-red)
@@ -93,6 +94,7 @@ This repository contains：
 
 
 ## Application
+- [Reinforcing the Diffusion Chain of Lateral Thought with Diffusion Language Models](https://arxiv.org/pdf/2505.10446) (arxiv)![](https://img.shields.io/badge/abs-2025.05-red)
 - [Table-to-Text Generation with Pretrained Diffusion Models](https://arxiv.org/pdf/2409.13739) (IEEE 2024)
 - [Diffusion of Thought: Chain-of-Thought Reasoning in Diffusion Language Models](https://arxiv.org/pdf/2402.07754) (NeurIPS 2024)
 - [DiffusionNER: Boundary Diffusion for Named Entity Recognition](https://aclanthology.org/2023.acl-long.215.pdf) (ACL 2023)
