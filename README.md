@@ -70,6 +70,7 @@ This repository contains：
 ## Continuous-Time Diffusion Model 
 - [TESS 2: A Large-Scale Generalist Diffusion Language Model](https://arxiv.org/pdf/2502.13917) (arxiv) ![](https://img.shields.io/badge/abs-2025.02-red)
 - [Difformer: Empowering Diffusion Models on the Embedding Space for Text Generation](https://aclanthology.org/2024.naacl-long.261.pdf) (NAACL2024)
+- [Diffusion Guided Language Modeling](https://aclanthology.org/2024.findings-acl.887.pdf) (ACL 2024)
 - [TESS: Text-to-Text Self-Conditioned Simplex Diffusion](https://aclanthology.org/2024.eacl-long.144.pdf) (EACL2024)
 - [Latent Diffusion for Language Generation](https://openreview.net/pdf?id=NKdtztladR) (NeurIPS 2023)
 - [AR-Diffusion: Auto-Regressive Diffusion Model for Text Generation](https://arxiv.org/pdf/2305.09515) (NeurIPS 2023)
@@ -85,7 +86,6 @@ This repository contains：
 - [DiffuSeq: Sequence to Sequence Text Generation with Diffusion Models](https://openreview.net/pdf?id=jQj-_rLVXsj) (ICLR 2022)
 - [Continuous diffusion for categorical data](https://arxiv.org/pdf/2211.15089) (arxiv 2022)
 - [Seqdiffuseq: Text diffusion with encoder-decoder transformers](https://arxiv.org/pdf/2212.10325) (arxiv 2022)
-- [Diffusion Guided Language Modeling](https://aclanthology.org/2024.findings-acl.887.pdf) (ACL 2024)
 
 
 
@@ -94,7 +94,7 @@ This repository contains：
 
 ## Application
 - [Table-to-Text Generation with Pretrained Diffusion Models](https://arxiv.org/pdf/2409.13739) (IEEE 2024)
-- [Diffusion of Thought: Chain-of-Thought Reasoning in Diffusion Language Models[(https://arxiv.org/pdf/2402.07754) (NeurIPS)
+- [Diffusion of Thought: Chain-of-Thought Reasoning in Diffusion Language Models](https://arxiv.org/pdf/2402.07754) (NeurIPS 2024)
 - [DiffusionNER: Boundary Diffusion for Named Entity Recognition](https://aclanthology.org/2023.acl-long.215.pdf) (ACL 2023)
 - [Fine-grained Text Style Transfer with Diffusion-Based Language Models](https://aclanthology.org/2023.repl4nlp-1.6.pdf) (RepL4NLP 2023)
 
