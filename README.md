@@ -32,10 +32,10 @@ This repository contains：
 - [MMaDA: Multimodal Large Diffusion Language Models](https://arxiv.org/pdf/2505.15809) ![](https://img.shields.io/badge/abs-2025.05-red)
 - [LLaDA-V: Large Language Diffusion Models with Visual Instruction Tuning](https://arxiv.org/pdf/2505.16933) ![](https://img.shields.io/badge/abs-2025.05-red)
 - [Dimple: Discrete Diffusion Multimodal Large Language Model with Parallel Decoding](https://arxiv.org/pdf/2505.16990) (arxiv)![](https://img.shields.io/badge/abs-2025.05-red)
-- [Unified Multimodal Discrete Diffusion](https://arxiv.org/pdf/2503.20853) (arxiv)![](https://img.shields.io/badge/abs-2025.03-red)  [[ **CODE** ]](https://github.com/alexanderswerdlow/unidisc)
+- [Unified Multimodal Discrete Diffusion](https://arxiv.org/pdf/2503.20853) (arxiv)![](https://img.shields.io/badge/abs-2025.03-red)  [[ **CODE** ](https://github.com/alexanderswerdlow/unidisc)]
 
 ## Discrete Diffusion Model
-
+- [Fast-dLLM: Training-free Acceleration of Diffusion LLM by Enabling KV Cache and Parallel Decoding](https://arxiv.org/pdf/2505.22618) (arxiv)![](https://img.shields.io/badge/abs-2025.05-red) [[ **CODE** ](https://github.com/NVlabs/Fast-dLLM)]
 - [LLaDA 1.5: Variance-Reduced Preference Optimization for Large Language Diffusion Models](https://arxiv.org/pdf/2505.19223) (arxiv)![](https://img.shields.io/badge/abs-2025.05-red)
 - [Accelerating Diffusion Language Model Inference via Efficient KV Caching and Guided Diffusion](https://arxiv.org/pdf/2505.21467) (arxiv)![](https://img.shields.io/badge/abs-2025.05-red)
 - [Diffusion vs. Autoregressive Language Models: A Text Embedding Perspective](https://arxiv.org/pdf/2505.15045) (arxiv)![](https://img.shields.io/badge/abs-2025.05-red)
@@ -68,7 +68,8 @@ This repository contains：
 - [Argmax Flows and Multinomial Diffusion: Learning Categorical Distributions](https://arxiv.org/pdf/2102.05379) (NeurIPS 2021)
   
 
-## Continuous-Time Diffusion Model 
+## Continuous-Time Diffusion Model
+- [Unifying Continuous and Discrete Text Diffusion with Non-simultaneous Diffusion Processes](https://arxiv.org/pdf/2505.22165) (ACL2025)
 - [TESS 2: A Large-Scale Generalist Diffusion Language Model](https://arxiv.org/pdf/2502.13917) (arxiv) ![](https://img.shields.io/badge/abs-2025.02-red)
 - [Difformer: Empowering Diffusion Models on the Embedding Space for Text Generation](https://aclanthology.org/2024.naacl-long.261.pdf) (NAACL2024)
 - [Diffusion Guided Language Modeling](https://aclanthology.org/2024.findings-acl.887.pdf) (ACL 2024)
