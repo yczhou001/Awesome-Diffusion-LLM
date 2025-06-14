@@ -36,13 +36,17 @@ This repository contains：
 
 ## Discrete Diffusion Model
 - [Esoteric Language Models](https://arxiv.org/pdf/2506.01928) (arxiv)![](https://img.shields.io/badge/abs-2025.06-red) [[ **CODE** ](https://github.com/s-sahoo/Eso-LMs)]
+- [Accelerating Diffusion LLMs via Adaptive Parallel Decoding](https://arxiv.org/pdf/2506.00413) (arxiv)![](https://img.shields.io/badge/abs-2025.06-red)
+- [DINGO: Constrained Inference for Diffusion LLMs](https://arxiv.org/pdf/2505.23061) (arxiv)![](https://img.shields.io/badge/abs-2025.05-red)
 - [Fast-dLLM: Training-free Acceleration of Diffusion LLM by Enabling KV Cache and Parallel Decoding](https://arxiv.org/pdf/2505.22618) (arxiv)![](https://img.shields.io/badge/abs-2025.05-red) [[ **CODE** ](https://github.com/NVlabs/Fast-dLLM)]
 - [LLaDA 1.5: Variance-Reduced Preference Optimization for Large Language Diffusion Models](https://arxiv.org/pdf/2505.19223) (arxiv)![](https://img.shields.io/badge/abs-2025.05-red)
 - [Accelerating Diffusion Language Model Inference via Efficient KV Caching and Guided Diffusion](https://arxiv.org/pdf/2505.21467) (arxiv)![](https://img.shields.io/badge/abs-2025.05-red)
 - [Diffusion vs. Autoregressive Language Models: A Text Embedding Perspective](https://arxiv.org/pdf/2505.15045) (arxiv)![](https://img.shields.io/badge/abs-2025.05-red)
 - [dKV-Cache: The Cache for Diffusion Language Models](https://arxiv.org/pdf/2505.15781) (arxiv)![](https://img.shields.io/badge/abs-2025.05-red)
-- [CtrlDiff: Boosting Large Diffusion Language Models with Dynamic Block Prediction and Controllable Generation](https://arxiv.org/pdf/2505.14455)(arxiv) ![](https://img.shields.io/badge/abs-2025.05-red)
+- [CtrlDiff: Boosting Large Diffusion Language Models with Dynamic Block Prediction and Controllable Generation](https://arxiv.org/pdf/2505.14455) (arxiv) ![](https://img.shields.io/badge/abs-2025.05-red)
+- [Insertion Language Models: Sequence Generation with Arbitrary-Position Insertions](https://arxiv.org/pdf/2505.05755) (arxiv) ![](https://img.shields.io/badge/abs-2025.05-red)
 - [d1: Scaling Reasoning in Diffusion Large Language Models via Reinforcement Learning](https://arxiv.org/abs/2504.12216) (arxiv) ![](https://img.shields.io/badge/abs-2025.04-red)
+- [Target Concrete Score Matching: A Holistic Framework for Discrete Diffusion](https://arxiv.org/pdf/2504.16431) (arxiv) ![](https://img.shields.io/badge/abs-2025.04-red)
 - [Remasking Discrete Diffusion Models with Inference-Time Scaling](https://arxiv.org/pdf/2503.00307) (arxiv)![](https://img.shields.io/badge/abs-2025.03-red)
 - [Large Language Diffusion Models](https://arxiv.org/pdf/2502.09992) (arxiv) ![](https://img.shields.io/badge/abs-2025.02-red) [<span style="color: red;">code</span>](https://github.com/ML-GSAI/LLaDA)
 - [Block Diffusion: Interpolating Between Autoregressive and Diffusion Language Models](https://arxiv.org/pdf/2503.09573) (ICLR 2025 Oral) - [[💻]] [**Code**](https://github.com/kuleshov-group/bd3lms)
@@ -75,6 +79,7 @@ This repository contains：
 - [Difformer: Empowering Diffusion Models on the Embedding Space for Text Generation](https://aclanthology.org/2024.naacl-long.261.pdf) (NAACL2024)
 - [Diffusion Guided Language Modeling](https://aclanthology.org/2024.findings-acl.887.pdf) (ACL 2024)
 - [TESS: Text-to-Text Self-Conditioned Simplex Diffusion](https://aclanthology.org/2024.eacl-long.144.pdf) (EACL2024)
+- [Transfer Learning for Text Diffusion Models](https://arxiv.org/pdf/2401.17181) (arxiv 2024)
 - [Latent Diffusion for Language Generation](https://openreview.net/pdf?id=NKdtztladR) (NeurIPS 2023)
 - [AR-Diffusion: Auto-Regressive Diffusion Model for Text Generation](https://arxiv.org/pdf/2305.09515) (NeurIPS 2023)
 - [Text Generation with Diffusion Language Models: A Pre-training Approach with Continuous Paragraph Denoise](https://arxiv.org/pdf/2212.11685) (ICML 2023)
