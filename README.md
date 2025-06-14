@@ -35,6 +35,7 @@ This repository contains：
 - [Unified Multimodal Discrete Diffusion](https://arxiv.org/pdf/2503.20853) (arxiv)![](https://img.shields.io/badge/abs-2025.03-red)  [[ **CODE** ](https://github.com/alexanderswerdlow/unidisc)]
 
 ## Discrete Diffusion Model
+- [Esoteric Language Models](https://arxiv.org/pdf/2506.01928) (arxiv)![](https://img.shields.io/badge/abs-2025.06-red) [[ **CODE** ](https://github.com/s-sahoo/Eso-LMs)]
 - [Fast-dLLM: Training-free Acceleration of Diffusion LLM by Enabling KV Cache and Parallel Decoding](https://arxiv.org/pdf/2505.22618) (arxiv)![](https://img.shields.io/badge/abs-2025.05-red) [[ **CODE** ](https://github.com/NVlabs/Fast-dLLM)]
 - [LLaDA 1.5: Variance-Reduced Preference Optimization for Large Language Diffusion Models](https://arxiv.org/pdf/2505.19223) (arxiv)![](https://img.shields.io/badge/abs-2025.05-red)
 - [Accelerating Diffusion Language Model Inference via Efficient KV Caching and Guided Diffusion](https://arxiv.org/pdf/2505.21467) (arxiv)![](https://img.shields.io/badge/abs-2025.05-red)
