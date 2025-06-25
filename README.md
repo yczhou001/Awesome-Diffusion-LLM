@@ -10,8 +10,8 @@
 
 This repository contains：
   - A regularly updated paper list for Diffusion Large Language Models.
-  - A tutorial for Diffusion Large Language Models
-  - A nano code snippet for Diffusion Large Language Models (coming soon!)
+  - A tutorial for Diffusion Large Language Models.
+  - A nano code snippet for Diffusion Large Language Models. We have released a simple version in `code`.
 
 
 ## Playground
