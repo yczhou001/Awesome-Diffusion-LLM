@@ -11,8 +11,12 @@
 This repository contains：
   - A regularly updated paper list for Diffusion Large Language Models.
   - A tutorial for Diffusion Large Language Models.
-  - A nano code snippet for Diffusion Large Language Models. We have released a simple version in `code`.
+  - A nano code snippet for Diffusion Large Language Models.
 
+## Nano code
+We have released a simple implementation in `code` folder. It contains two types of diffusion language models, presented as Jupyter notebooks:
+- `continuous_diff.ipynb`: This notebook demonstrates a Continuous Diffusion Language Model, illustrating how diffusion modeling and sampling operate in a continuous space, such as word vector space. It could be a start point for grasping the fundamental principles of continuous diffusion language models.
+- `masked_diff.ipynb`: This notebook implements a Mask-based Discrete Diffusion Language Model, which works in the discrete token space and supports text generation tasks. We draws inspiration from [GUIDELINES.md](https://github.com/ML-GSAI/LLaDA/blob/main/GUIDELINES.md) of [LLaDA](https://github.com/ML-GSAI/LLaDA). Thanks for their contributions!
 
 ## Playground
 - [Meucury](https://chat.inceptionlabs.ai/)
