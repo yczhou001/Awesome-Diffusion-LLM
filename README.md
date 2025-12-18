@@ -37,6 +37,7 @@ We have released a simple implementation in `code` folder. It contains two types
 - [LLaDA-V: Large Language Diffusion Models with Visual Instruction Tuning](https://arxiv.org/pdf/2505.16933) ![](https://img.shields.io/badge/abs-2025.05-red)
 - [Dimple: Discrete Diffusion Multimodal Large Language Model with Parallel Decoding](https://arxiv.org/pdf/2505.16990) (arxiv)![](https://img.shields.io/badge/abs-2025.05-red)
 - [Unified Multimodal Discrete Diffusion](https://arxiv.org/pdf/2503.20853) (arxiv)![](https://img.shields.io/badge/abs-2025.03-red)  [[ **CODE** ](https://github.com/alexanderswerdlow/unidisc)]
+- [DiffusionVL: Translating Any Autoregressive Models into Diffusion Vision Language Models](https://arxiv.org/pdf/2512.15713) (arxiv)![](https://img.shields.io/badge/abs-2025.12-red)  [[ **CODE** ](https://github.com/hustvl/DiffusionVL)]
 
 ## Discrete Diffusion Model
 - [Esoteric Language Models](https://arxiv.org/pdf/2506.01928) (arxiv)![](https://img.shields.io/badge/abs-2025.06-red) [[ **CODE** ](https://github.com/s-sahoo/Eso-LMs)]
