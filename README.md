@@ -28,6 +28,7 @@ We have released a simple implementation in `code` folder. It contains two types
 - Gemini Diffusion [blog](https://deepmind.google/models/gemini-diffusion/) 
 - Mercury: Ultra-Fast Language Models Based on Diffusion [tech report](https://drive.google.com/file/d/1xrqTqF88OZblf0NgMjr1REU4doYlkNXf/view)
 - Dream7B [blog](https://hkunlp.github.io/blog/2025/dream/)
+- Anatomy of a Diffusion Language Model [blog](https://blog.doubleword.ai/anatonmy-dllm)
 
 
 ## Diffusion Language Model for Multimodal Understanding
