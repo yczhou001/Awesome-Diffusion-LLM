@@ -40,6 +40,7 @@ We have released a simple implementation in `code` folder. It contains two types
 - [DiffusionVL: Translating Any Autoregressive Models into Diffusion Vision Language Models](https://arxiv.org/pdf/2512.15713) (arxiv)![](https://img.shields.io/badge/abs-2025.12-red)  [[ **CODE** ](https://github.com/hustvl/DiffusionVL)]
 
 ## Discrete Diffusion Model
+- [Beyond Hard Masks: Progressive Token Evolution for Diffusion Language Models](https://arxiv.org/pdf/2601.07351) (ACL 2026) ![](https://img.shields.io/badge/abs-2026.01-red) [[ **CODE** ](https://github.com/aim-uofa/EvoTokenDLM)]
 - [Esoteric Language Models](https://arxiv.org/pdf/2506.01928) (arxiv)![](https://img.shields.io/badge/abs-2025.06-red) [[ **CODE** ](https://github.com/s-sahoo/Eso-LMs)]
 - [Accelerating Diffusion LLMs via Adaptive Parallel Decoding](https://arxiv.org/pdf/2506.00413) (arxiv)![](https://img.shields.io/badge/abs-2025.06-red)
 - [DINGO: Constrained Inference for Diffusion LLMs](https://arxiv.org/pdf/2505.23061) (arxiv)![](https://img.shields.io/badge/abs-2025.05-red)
@@ -111,6 +112,5 @@ We have released a simple implementation in `code` folder. It contains two types
 - [Diffusion of Thought: Chain-of-Thought Reasoning in Diffusion Language Models](https://arxiv.org/pdf/2402.07754) (NeurIPS 2024)
 - [DiffusionNER: Boundary Diffusion for Named Entity Recognition](https://aclanthology.org/2023.acl-long.215.pdf) (ACL 2023)
 - [Fine-grained Text Style Transfer with Diffusion-Based Language Models](https://aclanthology.org/2023.repl4nlp-1.6.pdf) (RepL4NLP 2023)
-
 
 
